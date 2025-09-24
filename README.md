@@ -23,7 +23,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?&logo=bootstrap)
 
 ### Backend Development:
 &emsp;
