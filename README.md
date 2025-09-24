@@ -8,7 +8,7 @@ I'm an **Engineer in Computer Systems** and currently working as a **Full Stack 
 
 - 👨‍💻 Currently learning **programming to create video games** and interactive experiences.  
 - 💻 Working with **web development technologies** like JavaScript, React, C#, and more.  
-- 🎮 Avid gamer — I enjoy exploring new mechanics and gameplay.  
+- 🎮 Avid gamer — I especially enjoy playing **JRPGs** and exploring their stories and mechanics.
 - 🎨 Fascinated by **animations and graphics**.  
 - 📺 Big fan of **anime**.  
 - 📖 Love to **read mangas**.  
