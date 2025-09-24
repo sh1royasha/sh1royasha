@@ -13,9 +13,9 @@
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![C#](https://img.shields.io/badge/-C%23-000?&logo=c-sharp)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
-![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-000?&logo=Oracle)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=dotnet)
+![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
+![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-000?&logo=oracle&logoColor=F80000)
 
 ### Frontend Development:
 &emsp;
