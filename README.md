@@ -1,9 +1,8 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2> Hi, I'm Brandon Medina! </h2>
-&emsp;
-&emsp;
+<h1 align="center">Hi 👋, I'm Brandon Medina!</h1>
+
 
 ## 🛠️ My Skills
 -------------------
