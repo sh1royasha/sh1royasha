@@ -62,6 +62,13 @@
 ![Blender](https://img.shields.io/badge/-Blender-000?&logo=Blender)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-000?&logo=Obsidian)
 
+
+## 🙋‍♀️ Let's Connect
+<p align="center">
+	<a href="mailto:braandonmedina@gmail.com".com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/sh1royasha"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+</p>
 <!---
 sh1royasha/sh1royasha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
