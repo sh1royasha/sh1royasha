@@ -12,7 +12,6 @@
 ### Programming Languages:
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=dotnet)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-Oracle-000?logo=oracle)
@@ -23,7 +22,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?&logo=bootstrap)
 
 ### Backend Development:
 &emsp;
@@ -34,7 +33,7 @@
 &emsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![Oracle](https://img.shields.io/badge/Oracle-DB-F80000?logo=oracle&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-DB-000?logo=oracle)
 
 ### IDEs & Tools:
 &emsp;
