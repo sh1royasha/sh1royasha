@@ -3,16 +3,18 @@
 
 <h1 align="center">Hi 👋, I'm Brandon Medina!</h1>
 
-## I'm a Computer Science and Engineering Student  
+## About Me
+I'm an **Engineer in Computer Systems** and currently working as a **Full Stack Developer**. I love learning, creating, and exploring new technologies.  
 
-
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- 👨‍💻 Currently learning **programming to create video games** and interactive experiences.  
+- 💻 Working with **web development technologies** like JavaScript, React, C#, and more.  
+- 🎮 Avid gamer — I enjoy exploring new mechanics and gameplay.  
+- 🎨 Fascinated by **animations and graphics**.  
+- 📺 Big fan of **anime**.  
+- 📖 Love to **read mangas**.  
+- 🎵 Music lover — discovering new songs and artists is my hobby.
 
 ---
-
 
 ## 🛠️ My Skills
 -------------------
@@ -23,7 +25,6 @@
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=dotnet)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-Oracle-000?logo=oracle)
-
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
@@ -39,6 +40,7 @@
 &emsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
 ![REST API](https://img.shields.io/badge/-REST%20API-000?&logo=fastapi)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 
 ### Databases:
 &emsp;
@@ -62,16 +64,14 @@
 ![Blender](https://img.shields.io/badge/-Blender-000?&logo=Blender)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-000?&logo=Obsidian)
 
+---
 
-## 🙋‍♀️ Let's Connect
+## 🙋‍♂️ Let's Connect
 <p align="center">
-	<a href="mailto:braandonmedina@gmail.com".com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="mailto:braandonmedina@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/sh1royasha"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
-<!---
-sh1royasha/sh1royasha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
