@@ -1,8 +1,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2> Hi, I'm Brandon Medina! <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-</h2>
+<h2> Hi, I'm Brandon Medina! </h2>
 &emsp;
 &emsp;
 
@@ -23,6 +22,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?&logo=bootstrap)
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ### Backend Development:
 &emsp;
