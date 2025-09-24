@@ -20,7 +20,7 @@
 ### Frontend Development:
 &emsp;
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
