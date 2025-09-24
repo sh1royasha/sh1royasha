@@ -1,6 +1,8 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
 - 👋 Hi, I’m @sh1royasha
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
