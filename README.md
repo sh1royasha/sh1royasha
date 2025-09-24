@@ -38,7 +38,7 @@
 &emsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 
 <!---
 sh1royasha/sh1royasha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
